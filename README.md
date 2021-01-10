@@ -17,12 +17,12 @@
 - [Curso de Angular.](https://www.udemy.com/course/angular-2-fernando-herrera/) [10%]
 
 ### 💻 Técnologias aprendidas:
-- HTML5
-- CSS3
-- JavaScript
-- C/C++
-- MySQL
-- GitHub
+- HTML5.
+- CSS3.
+- JavaScript.
+- C/C++.
+- MySQL.
+- GitHub.
 
 ### 📫 Donde podés encontrarme?
 - [Facebook](https://www.facebook.com/JereLoza05) 😏
