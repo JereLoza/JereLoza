@@ -9,6 +9,7 @@
 <!-- Inicio de proyectos -->
 - [Primer proyecto de web responsive de tipo página personal realizado con HTML5 y CSS3.](https://firstproyectjeremiasloza.netlify.app/)
 - [Segundo proyecto de web responsive de tipo e-commerce realizado con HTML5 y CSS3.](https://secondproyectjeremiasloza.netlify.app)
+- [Tercer proyecto de web responsive de tipo blog realizado con HTML5 y CSS3.](https://thirdproyectjeremiasloza.netlify.app/)
 <!-- Fin de proyectos -->
 
 ### 📚 Estudiando actualmente:
