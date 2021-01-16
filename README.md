@@ -5,7 +5,7 @@
   Realizé y aprobé el Plan Argentina Programa y actualmente estoy realizando un curso de programación web (HTML5, CSS3, JavaScript, jQuery, Ajax, PHP y MySQL) en la plataforma Udemy.
 </p>
 
-### 📰 Mis proyectos web
+### 📰 Mis proyectos web:
 <!-- Inicio de proyectos -->
 - [Primer proyecto de web responsive de tipo página personal realizado con HTML5 y CSS3.](https://firstproyectjeremiasloza.netlify.app/)
 - [Segundo proyecto de web responsive de tipo e-commerce realizado con HTML5 y CSS3.](https://secondproyectjeremiasloza.netlify.app)
