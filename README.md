@@ -26,7 +26,7 @@
 - GitHub.
 
 ### 📫 Donde podés encontrarme?
+- [LinkedIn](https://www.linkedin.com/in/alexjeremiasloza/) 💼
+- [Instagram](https://www.instagram.com/jereloza/) 😎
 - [Facebook](https://www.facebook.com/JereLoza05) 😏
 - [Twitter](https://twitter.com/Jere_Loza5) 🐤
-- [Instagram](https://www.instagram.com/jereloza/) 😎
-- [LinkedIn](https://www.linkedin.com/in/alexjeremiasloza/) 💼
