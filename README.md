@@ -13,9 +13,9 @@
 <!-- Fin de proyectos -->
 
 ### 📚 Estudiando actualmente:
-- [Carrera de Técnico Universitario en Programación.](http://www.mdp.utn.edu.ar/tecnico-universitario-en-programacion.php) [50%]
-- [Curso de desarrollo web.](https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/) [20%]
-- [Curso de Angular.](https://www.udemy.com/course/angular-2-fernando-herrera/) [10%]
+- [Carrera de Técnico Universitario en Programación en Universidad Tecnológica Nacional.](http://www.mdp.utn.edu.ar/tecnico-universitario-en-programacion.php) [50%]
+- [Curso de desarrollo web en Udemy.](https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/) [20%]
+- [Curso de Angular en Udemy.](https://www.udemy.com/course/angular-2-fernando-herrera/) [10%]
 
 ### 💻 Técnologias aprendidas:
 - HTML5.
